@@ -1,5 +1,6 @@
 #include <iostream>
 #include <random>
+/// LAB2
 int main()
 {
 	const int n=3;

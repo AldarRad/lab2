@@ -3,7 +3,7 @@
 /// LAB2
 int main()
 {
-	const int n=3;
+	const int n=5;
 	int s=0;
 	int mas[n][n];
 	std::cout << "";
